@@ -1127,6 +1127,8 @@ public class RNZoomUsModule extends ReactContextBaseJavaModule implements ZoomSD
   public void onRequestLocalRecordingPrivilegeChanged(LocalRecordingRequestPrivilegeStatus localRecordingRequestPrivilegeStatus) {}
   @Override
   public void onAICompanionActiveChangeNotice(boolean b) {}
+  @Override
+  public void onInMeetingUserAvatarPathUpdated(long userId) {}
 
 
   // InMeetingShareListener event listeners
