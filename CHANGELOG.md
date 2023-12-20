@@ -1,5 +1,11 @@
 ## Changelog
 
+### 6.19.1
+
+Android:
+
+- Updated ZoomSDK to 5.16.10.17706
+
 ### 6.19.0
 
 Android:
